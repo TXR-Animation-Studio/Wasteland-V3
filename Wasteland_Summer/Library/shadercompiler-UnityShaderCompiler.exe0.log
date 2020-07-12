@@ -1,0 +1,91 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.0f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.0f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: preprocessCompute
+  insize=1410 outsize=1412 ok=1
+Cmd: preprocessCompute
+  insize=10235 outsize=10237 ok=1
+Cmd: preprocessCompute
+  insize=7926 outsize=7928 ok=1
+Cmd: preprocess
+  insize=20052 outsize=594 ok=1
+Cmd: preprocessCompute
+  insize=8776 outsize=8778 ok=1
+Cmd: preprocessCompute
+  insize=7531 outsize=7533 ok=1
+Cmd: preprocess
+  insize=38591 outsize=655 ok=1
+Cmd: preprocessCompute
+  insize=1909 outsize=1911 ok=1
+Cmd: preprocessCompute
+  insize=8424 outsize=8426 ok=1
+Cmd: preprocessCompute
+  insize=10526 outsize=10528 ok=1
+Cmd: preprocess
+  insize=47874 outsize=623 ok=1
+Cmd: preprocessCompute
+  insize=10797 outsize=10799 ok=1
+Cmd: preprocessCompute
+  insize=8947 outsize=8949 ok=1
+Cmd: preprocess
+  insize=39219 outsize=654 ok=1
+Cmd: preprocessCompute
+  insize=11253 outsize=11255 ok=1
+Cmd: preprocessCompute
+  insize=7707 outsize=7709 ok=1
+Cmd: preprocess
+  insize=37728 outsize=616 ok=1
+Cmd: preprocessCompute
+  insize=1974 outsize=1976 ok=1
+Cmd: preprocessCompute
+  insize=1909 outsize=1911 ok=1
+Cmd: compileComputeKernel
+  error: 2 plat 4 at Bonfire.vfx(10): failed to open source file: 'Packages/com.unity.render-pipelines.high-definition/Runtime/VFXGraph/Shaders/VFXDefines.hlsl'
+  api=4 insize=1911 outsize=0 ok=0
+Cmd: preprocessCompute
+  insize=9415 outsize=9417 ok=1
+Cmd: preprocessCompute
+  insize=7626 outsize=7628 ok=1
+Cmd: preprocess
+  insize=37484 outsize=615 ok=1
+Cmd: preprocessCompute
+  insize=8270 outsize=8272 ok=1
+Cmd: preprocessCompute
+  insize=6487 outsize=6489 ok=1
+Cmd: preprocess
+  insize=36855 outsize=621 ok=1
+Cmd: preprocess
+  insize=102402 outsize=1062 ok=1
+Cmd: preprocessCompute
+  insize=7273 outsize=7275 ok=1
+Cmd: preprocessCompute
+  insize=6523 outsize=6525 ok=1
+Cmd: preprocess
+  insize=46912 outsize=624 ok=1
+Cmd: preprocessCompute
+  insize=1974 outsize=1976 ok=1
+Cmd: preprocessCompute
+  insize=6465 outsize=6467 ok=1
+Cmd: preprocessCompute
+  insize=17413 outsize=17415 ok=1
+Cmd: preprocess
+  insize=43591 outsize=638 ok=1
+Cmd: preprocessCompute
+  insize=7244 outsize=7246 ok=1
+Cmd: preprocessCompute
+  insize=30988 outsize=30990 ok=1
+Cmd: preprocessCompute
+  insize=7731 outsize=7733 ok=1
+Cmd: preprocessCompute
+  insize=10100 outsize=10102 ok=1
+Cmd: preprocessCompute
+  insize=6328 outsize=6330 ok=1
+Cmd: preprocessCompute
+  insize=4988 outsize=4990 ok=1
+Cmd: preprocess
+  insize=40087 outsize=639 ok=1
+Cmd: preprocessCompute
+  insize=7772 outsize=7774 ok=1
+Cmd: preprocessCompute
+  insize=7560 outsize=7562 ok=1
+Cmd: preprocess
+  insize=43085 outsize=621 ok=1
